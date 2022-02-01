@@ -61,4 +61,4 @@ Vagrant.configure("2") do |config|
     sudo systemctl daemon-reload
     sudo systemctl restart docker
   SHELL
-end
+  end
