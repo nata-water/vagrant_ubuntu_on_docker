@@ -1,4 +1,4 @@
-# Vagrant Ubuntu 21.04 (hirsute64) on Docker
+# Vagrant Ubuntu 22.04 (Jammy) on Docker
 
 ## [1-1] 事前に必要なこと
 
